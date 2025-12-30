@@ -1,0 +1,12 @@
+{
+  "domain": "bilibili_fans",
+  "name": "Bilibili Fans",
+  "codeowners": ["@yourusername"],
+  "documentation": "",
+  "requirements": ["aiohttp"],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "dependencies": [],
+  "default_config": {}
+}
